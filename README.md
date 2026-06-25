@@ -2,6 +2,9 @@
 
 Personal study notes for the **Google Cloud Associate Cloud Engineer** certification, following [Andrew Brown's 2025 course](https://www.youtube.com/watch?v=OlAmyf8_4O4&t=546s) on freeCodeCamp.
 
+**Google Official Certification link**
+https://cloud.google.com/learn/certification/cloud-engineer
+
 ## Repository Structure
 
 ```
